@@ -1,4 +1,3 @@
-import './scss/main.scss';
+import './css/main.css';
 
-console.log("Hello patito");
-console.log("Hello hello");
+console.log('hello-world');

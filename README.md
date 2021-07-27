@@ -12,6 +12,13 @@ Add description here.
 
 * [Live Demo]()
 
+## Getting Started
+**Install**
+
+- `git clone https://github.com/D4nielJ/todo-list.git`
+- `npm install`
+- `npm run start`
+
 ## Authors
 
 👤 **D4nielJ**
