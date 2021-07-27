@@ -19,6 +19,14 @@ Add description here.
 - `npm install`
 - `npm run start`
 
+**To compile SCSS**
+
+- `npm run wsass`
+
+**Bundle project**
+
+- `npm run build`
+
 ## Authors
 
 👤 **D4nielJ**
